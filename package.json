@@ -1,6 +1,6 @@
 {
   "name": "node-xls",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "transform json to a MS excel document",
   "main": "lib/index.js",
   "scripts": {
@@ -10,15 +10,16 @@
     "type": "git",
     "url": ""
   },
-  "author": {
-    "name": "Jackie Lee",
-    "email": "jackie.lihf@gmail.com"
-  },
+  "author": "Jackie Lee <jackie.lihf@gmail.com>",
   "license": "BSD-2-Clause",
   "dependencies": {
     "excel-export": "~0.3.11"
   },
-  "bugs": {
-    "url": ""
-  }
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "excel"
+  ]
 }
