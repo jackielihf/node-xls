@@ -1,7 +1,7 @@
 # node-xls
 
 ## install
-Downlowd the zip file, and unzip to the node_modules directory of your project. In the node-xls dir, exec command "npm install".
+npm install node-xls
 
 ## startup
 a simple example: example/example.js
